@@ -12,3 +12,11 @@
 - NumPy
 ---
 # Functionalities
+- The game can be played with the GUI (pressing buttons) or with the webcam, by showing a sign (rock, paper or scissors).
+---
+# Rules
+- For Tkinter GUI just press one of the three butttons and the computer will make a random move.
+- For AI place your hand in the rectangle and make a sign. After the computer will recognize it, it will make a random move.
+---
+# Demo
+-
