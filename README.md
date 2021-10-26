@@ -4,7 +4,7 @@
 # Used Concepts
 - Object Oriented Programming
 - Tkinter Graphical User Interface
-- Pygame
+- Pygame (sounds when you win/lose)
 - OpenCV (for capturing user's move through webcam)
 - Keras
 - Tensorflow
